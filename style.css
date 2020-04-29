@@ -1,0 +1,9 @@
+.img-size {
+	width: 100px;
+	height: 100px;
+}
+
+.modal-content{
+	background-color: red;
+	border-radius: 40px;
+}
